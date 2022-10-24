@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    justify-content: flex-start;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: white;
+  }
+  .wrap {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  button:hover {
+    cursor: pointer;
+  }
