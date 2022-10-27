@@ -15,13 +15,3 @@ body {
   button:hover {
     cursor: pointer;
   }
-
-  .row {
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    justify-content: flex-start;
-    -ms-flex-align: center;
-    align-items: center;
-
-  }
